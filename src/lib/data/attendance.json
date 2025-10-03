@@ -1,0 +1,122 @@
+[
+  {
+    "id": "att17590378022603",
+    "userId": "3",
+    "date": "2025-09-28",
+    "status": "present"
+  },
+  {
+    "id": "att17590393905802",
+    "userId": "2",
+    "date": "2025-09-28",
+    "status": "absent"
+  },
+  {
+    "id": "att17590395028733",
+    "userId": "3",
+    "date": "2025-09-30",
+    "status": "on_leave"
+  },
+  {
+    "id": "att17590395028733",
+    "userId": "3",
+    "date": "2025-10-01",
+    "status": "on_leave"
+  },
+  {
+    "id": "att17590395028753",
+    "userId": "3",
+    "date": "2025-10-02",
+    "status": "on_leave"
+  },
+  {
+    "id": "att17590425790452",
+    "userId": "2",
+    "date": "2025-09-26",
+    "status": "present"
+  },
+  {
+    "id": "att17590429502493",
+    "userId": "3",
+    "date": "2025-09-26",
+    "status": "present"
+  },
+  {
+    "id": "att17590430457672",
+    "userId": "2",
+    "date": "2025-09-27",
+    "status": "on_leave"
+  },
+  {
+    "id": "att17590525729833",
+    "userId": "3",
+    "date": "2025-09-16",
+    "status": "present"
+  },
+  {
+    "id": "att17592378924422",
+    "userId": "2",
+    "date": "2025-10-01",
+    "status": "on_leave"
+  },
+  {
+    "id": "att17592378924442",
+    "userId": "2",
+    "date": "2025-10-02",
+    "status": "on_leave"
+  },
+  {
+    "id": "att17592378924452",
+    "userId": "2",
+    "date": "2025-10-03",
+    "status": "on_leave"
+  },
+  {
+    "id": "att17592378924452",
+    "userId": "2",
+    "date": "2025-10-04",
+    "status": "on_leave"
+  },
+  {
+    "id": "att17592378924462",
+    "userId": "2",
+    "date": "2025-10-05",
+    "status": "on_leave"
+  },
+  {
+    "id": "att17592378924472",
+    "userId": "2",
+    "date": "2025-10-06",
+    "status": "on_leave"
+  },
+  {
+    "id": "att17592378924482",
+    "userId": "2",
+    "date": "2025-10-07",
+    "status": "on_leave"
+  },
+  {
+    "id": "att17592378924492",
+    "userId": "2",
+    "date": "2025-10-08",
+    "status": "on_leave"
+  },
+  {
+    "id": "att17592378924502",
+    "userId": "2",
+    "date": "2025-10-09",
+    "status": "on_leave"
+  },
+  {
+    "id": "att17592378924532",
+    "userId": "2",
+    "date": "2025-10-10",
+    "status": "on_leave"
+  },
+  {
+    "id": "att17592379220313",
+    "userId": "3",
+    "date": "2025-10-03",
+    "status": "present"
+  }
+]

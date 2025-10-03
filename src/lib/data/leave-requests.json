@@ -1,0 +1,46 @@
+[
+  {
+    "userId": "2",
+    "userName": "Naitik Beri",
+    "userAvatarUrl": "https://picsum.photos/seed/avatar2/100/100",
+    "startDate": "2025-10-01",
+    "endDate": "2025-10-10",
+    "reason": "Family function that why",
+    "status": "approved",
+    "id": "req1759237871139",
+    "createdAt": "2025-09-30T13:11:11.139Z"
+  },
+  {
+    "userId": "2",
+    "userName": "Naitik Beri",
+    "userAvatarUrl": "https://picsum.photos/seed/avatar2/100/100",
+    "startDate": "2025-09-27",
+    "endDate": "2025-09-27",
+    "reason": "Function so not able to attend ",
+    "status": "approved",
+    "id": "req1759043097069",
+    "createdAt": "2025-09-28T07:04:57.069Z"
+  },
+  {
+    "userId": "3",
+    "userName": "Arjun Sharma",
+    "userAvatarUrl": "https://picsum.photos/seed/avatar3/100/100",
+    "startDate": "2025-09-30",
+    "endDate": "2025-10-02",
+    "reason": "No lecture on those dates",
+    "status": "approved",
+    "id": "req1759039475972",
+    "createdAt": "2025-09-28T06:04:35.972Z"
+  },
+  {
+    "userId": "3",
+    "userName": "Arjun Sharma",
+    "userAvatarUrl": "https://picsum.photos/seed/avatar3/100/100",
+    "startDate": "2025-09-30",
+    "endDate": "2025-10-01",
+    "reason": "No lecture ",
+    "status": "rejected",
+    "id": "req1759038144388",
+    "createdAt": "2025-09-28T05:42:24.388Z"
+  }
+]

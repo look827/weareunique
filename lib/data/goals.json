@@ -1,0 +1,42 @@
+[
+  {
+    "userId": "3",
+    "userName": "Arjun Sharma",
+    "title": "Variables",
+    "description": "Containers on the memory.",
+    "deadline": "2025-10-31T00:00:00.000Z",
+    "id": "goal1759036422138",
+    "status": "completed",
+    "createdAt": "2025-09-28T05:13:42.138Z"
+  },
+  {
+    "userId": "3",
+    "userName": "Arjun Sharma",
+    "title": "Eggbeater do do do do",
+    "description": "Ghjfjfjfjfjfjffjfhfhhfufufufufufifi",
+    "deadline": "2025-09-30T00:00:00.000Z",
+    "id": "goal1759036291114",
+    "status": "completed",
+    "createdAt": "2025-09-28T05:11:31.114Z"
+  },
+  {
+    "id": "goal1",
+    "userId": "2",
+    "userName": "Naitik Beri",
+    "title": "Complete Q3 Project Documentation",
+    "description": "Finalize and publish all documentation for the Q3 project deliverables.",
+    "deadline": "2024-09-30T00:00:00.000Z",
+    "status": "completed",
+    "createdAt": "2024-07-20T00:00:00.000Z"
+  },
+  {
+    "id": "goal2",
+    "userId": "3",
+    "userName": "Arjun Sharma",
+    "title": "Onboarding Training",
+    "description": "Complete all modules of the new employee onboarding training program.",
+    "deadline": "2024-08-31T00:00:00.000Z",
+    "status": "completed",
+    "createdAt": "2024-07-15T00:00:00.000Z"
+  }
+]
